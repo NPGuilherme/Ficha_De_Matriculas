@@ -1,6 +1,6 @@
 Projeto Ficha de Matriculas foi criado para Gerenciar um banco de dados para controle de matrículas de alunos.
-Criação do Banco de Dados
-Criação de Tabelas de Alunos - Responsável - Endereço - Telefone - Professores - Histórico de Turma - Histórico Pagamento
+Criação do Banco de Dados - Ficha de Matriculas.
+Criação de Tabelas de Alunos - Responsável - Endereço - Telefone - Professores - Histórico de Turma - Histórico Pagamento.
 Criei View
 Criação de Procedures Insert - Update - Delete - Backup e Restore
 Criei Triggers de Históricos
