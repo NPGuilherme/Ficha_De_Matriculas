@@ -1,8 +1,8 @@
 Projeto desenvolvido para gerenciar o banco de dados para controle de matrículas de alunos.
 
-Sistema foi criado ultilizando SQL Server.
+Sistema foi criado utilizando SQL Server.
 
-Objetivo - Praticar Modelagem de Dados, Consultas SQL, Tiggers, Procedures e Automação no Banco de Dados.
+Objetivo - Praticar Modelagem de Dados, Consultas SQL, Triggers, Procedures e Automação no Banco de Dados.
 
 Banco de Dados Relacional
 
